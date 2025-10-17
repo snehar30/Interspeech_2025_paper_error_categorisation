@@ -19,10 +19,12 @@ The repo is organised as follows
 1. Scripts
 
    a. error\_categorisation\_main\_script.py 
-      Takes master files and lexicon files as input and gives out output files at the character, word and utterance level that can be analysed 
+
+   Takes master files and lexicon files as input and gives out output files at the character, word and utterance level that can be analysed 
 
    b. seaborn\_plots.py
-      Has multiple sections within the script to plot data from the output files.
+
+   Has multiple sections within the script to plot data from the output files.
 3. Input files
    The master files obtained after postprocessing. The "\_single\_story\_only\_s" versions are filtered versions of the "\_all" versions. 
 4. Lexicon files
